@@ -1,0 +1,112 @@
+Circuit: * C:\Users\brass\Desktop\sulautetut järjestelmät\Inverting_and_LIB\Inverting_and_LIB\Draft1.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.10559
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.04709
+vernier = 0.0208333
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.0282
+vernier = 0.00694444
+vernier = 0.00347222
+Gmin = 1.01932
+vernier = 0.00462963
+vernier = 0.00231481
+vernier = 0.00308642
+vernier = 0.00154321
+Gmin = 1.0155
+vernier = 0.00205761
+vernier = 0.00102881
+Gmin = 1.0125
+vernier = 0.00137174
+vernier = 0.00068587
+Gmin = 1.01033
+vernier = 0.000914493
+vernier = 0.000457247
+Gmin = 1.00866
+vernier = 0.000609662
+Gmin = 1.00731
+vernier = 0.000812882
+vernier = 0.000406441
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00665
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00583
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 96.5909%
+Source Step = 96.6116%
+Source Step = 96.6412%
+Source Step = 96.6708%
+Source Step = 96.7004%
+Source Step = 96.73%
+vernier = 0.00146484
+Source Step = 96.7655%
+Source Step = 96.8099%
+Source Step = 96.8543%
+Source Step = 96.8987%
+Source Step = 96.9431%
+vernier = 0.00219727
+Source Step = 96.9941%
+Source Step = 97.0607%
+Source Step = 97.1273%
+Source Step = 97.1939%
+Source Step = 97.2604%
+vernier = 0.0032959
+Source Step = 97.3337%
+Source Step = 97.4336%
+Source Step = 97.5334%
+Source Step = 97.6333%
+Source Step = 97.7332%
+vernier = 0.00494385
+Source Step = 97.8381%
+Source Step = 97.9879%
+Source Step = 98.1377%
+Source Step = 98.2875%
+Source Step = 98.4373%
+Source Step = 98.5871%
+vernier = 0.00741577
+Source Step = 98.8118%
+Source Step = 99.0366%
+Source Step = 99.2613%
+Source Step = 99.486%
+Source Step = 99.7107%
+vernier = 0.0111237
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Jan 19 20:16:12 2023
+Total elapsed time: 0.888 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11388
+traniter = 834
+tranpoints = 418
+accept = 418
+rejected = 0
+matrix size = 105
+fillins = 297
+solver = Normal
+Thread vector: 4.3/2.8[2] 2.1/1.4[2] 2.5/2.2[2] 0.3/0.5[1]  2592/500
+Matrix Compiler1: 26.37 KB object code size  3.6/1.8/[1.3]
+Matrix Compiler2: 13.67 KB object code size  1.2/1.5/[0.6]
+

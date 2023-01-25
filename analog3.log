@@ -1,0 +1,94 @@
+Circuit: * C:\Users\brass\Desktop\sulautetut järjestelmät\analog3.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.10559
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.04709
+vernier = 0.0208333
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.0282
+vernier = 0.00694444
+vernier = 0.00347222
+Gmin = 1.01932
+vernier = 0.00462963
+vernier = 0.00231481
+vernier = 0.00308642
+vernier = 0.00154321
+Gmin = 1.0155
+vernier = 0.00205761
+vernier = 0.00102881
+Gmin = 1.0125
+vernier = 0.00137174
+vernier = 0.00068587
+Gmin = 1.01033
+vernier = 0.000914493
+vernier = 0.000457247
+Gmin = 1.00866
+vernier = 0.000609662
+Gmin = 1.00731
+vernier = 0.000812882
+vernier = 0.000406441
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00665
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00583
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 96.5909%
+Source Step = 96.6856%
+Source Step = 96.804%
+Source Step = 96.9223%
+Source Step = 97.0407%
+Source Step = 97.1591%
+vernier = 0.00585938
+Source Step = 97.3189%
+Source Step = 97.4964%
+Source Step = 97.674%
+Source Step = 97.8516%
+Source Step = 98.0291%
+vernier = 0.00878906
+Source Step = 98.2599%
+Source Step = 98.5263%
+Source Step = 98.7926%
+Source Step = 99.0589%
+Source Step = 99.3253%
+vernier = 0.0131836
+Source Step = 99.6582%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Fri Jan 20 08:56:25 2023
+Total elapsed time: 0.712 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10569
+traniter = 862
+tranpoints = 432
+accept = 430
+rejected = 2
+matrix size = 107
+fillins = 261
+solver = Normal
+Thread vector: 4.4/3.2[2] 1.7/1.3[2] 0.9/0.8[1] 0.3/1.3[1]  2592/500
+Matrix Compiler1: 20.13 KB object code size  3.0/1.5/[0.9]
+Matrix Compiler2: 13.12 KB object code size  1.0/1.7/[0.6]
+
